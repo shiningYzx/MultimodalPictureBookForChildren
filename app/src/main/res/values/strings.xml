@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Multimodal Picture Book For Children</string>
+    <string name="app_CName">多模态盲童绘本</string>
+    <string name="app">多模态盲童绘本APP</string>
+    <string name="studioName">星光工作室</string>
+    <string name="login_register">登录/注册</string>
+    <string name="login">登 录</string>
+    <string name="please_enter_email">请输入邮箱</string>
+    <string name="please_enter_sms">请输入验证码</string>
+    <string name="getSms">获取验证码</string>
+    <string name="start_chose">开始选择</string>
+    <string name="story_reading">语音点读</string>
+    <string name="question_answer">语音问答</string>
+    <string name="appDetail">这是一个集语音问答和内容播放功能于一体的AI面板，专为盲童绘本设计，\n帮助盲童更好地享受阅读乐趣。你可以问我你想问的问题。</string>
+    <string name="changeOther">换一批</string>
+    <string name="inputText">请文字输入问题</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loginHint">检测到账号登录异常\n请重新登录</string>
+    <string name="IAmHelper">您好，我是语音助手小宝~\n可以对我说：</string>
+    <string name="robot_tip"><![CDATA[<- 按住我然后再说你想要播放第几章吧~]]></string>
+    <string name="recordingPermissionHint">未授予录音权限\n本软件部分功能将无法使用哦~</string>
+    <string name="title_activity_my">MyActivity</string>
+</resources>

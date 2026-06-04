@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <!-- 径向渐变（中心到边缘） -->
+    <gradient
+        android:type="radial"
+        android:startColor="#80FFC4"
+        android:endColor="#80F2FF"
+        android:gradientRadius="40dp" /> <!-- 渐变半径，可调整 -->
+
+
+</shape>

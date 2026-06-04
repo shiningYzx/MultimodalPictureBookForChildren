@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <shape android:shape="oval">
+            <solid android:color="#3D6198" /> <!-- 选中的背景为蓝色 -->
+            <corners android:radius="50dp"/>
+            <size android:height="50dp" android:width="50dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="@android:color/transparent" /> <!-- 默认透明背景 -->
+        </shape>
+    </item>
+</selector>
